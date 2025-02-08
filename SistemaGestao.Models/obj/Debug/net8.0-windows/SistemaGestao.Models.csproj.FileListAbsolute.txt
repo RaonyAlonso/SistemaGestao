@@ -1,0 +1,17 @@
+D:\GIT\SistemaGestao\SistemaGestao.Models\bin\Debug\net8.0-windows\SistemaGestao.Models.exe
+D:\GIT\SistemaGestao\SistemaGestao.Models\bin\Debug\net8.0-windows\SistemaGestao.Models.deps.json
+D:\GIT\SistemaGestao\SistemaGestao.Models\bin\Debug\net8.0-windows\SistemaGestao.Models.runtimeconfig.json
+D:\GIT\SistemaGestao\SistemaGestao.Models\bin\Debug\net8.0-windows\SistemaGestao.Models.dll
+D:\GIT\SistemaGestao\SistemaGestao.Models\bin\Debug\net8.0-windows\SistemaGestao.Models.pdb
+D:\GIT\SistemaGestao\SistemaGestao.Models\obj\Debug\net8.0-windows\SistemaGestao.Models.Form1.resources
+D:\GIT\SistemaGestao\SistemaGestao.Models\obj\Debug\net8.0-windows\SistemaGestao.Models.csproj.GenerateResource.cache
+D:\GIT\SistemaGestao\SistemaGestao.Models\obj\Debug\net8.0-windows\SistemaGestao.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\SistemaGestao\SistemaGestao.Models\obj\Debug\net8.0-windows\SistemaGestao.Models.AssemblyInfoInputs.cache
+D:\GIT\SistemaGestao\SistemaGestao.Models\obj\Debug\net8.0-windows\SistemaGestao.Models.AssemblyInfo.cs
+D:\GIT\SistemaGestao\SistemaGestao.Models\obj\Debug\net8.0-windows\SistemaGestao.Models.csproj.CoreCompileInputs.cache
+D:\GIT\SistemaGestao\SistemaGestao.Models\obj\Debug\net8.0-windows\SistemaGestao.Models.sourcelink.json
+D:\GIT\SistemaGestao\SistemaGestao.Models\obj\Debug\net8.0-windows\SistemaGestao.Models.dll
+D:\GIT\SistemaGestao\SistemaGestao.Models\obj\Debug\net8.0-windows\refint\SistemaGestao.Models.dll
+D:\GIT\SistemaGestao\SistemaGestao.Models\obj\Debug\net8.0-windows\SistemaGestao.Models.pdb
+D:\GIT\SistemaGestao\SistemaGestao.Models\obj\Debug\net8.0-windows\SistemaGestao.Models.genruntimeconfig.cache
+D:\GIT\SistemaGestao\SistemaGestao.Models\obj\Debug\net8.0-windows\ref\SistemaGestao.Models.dll

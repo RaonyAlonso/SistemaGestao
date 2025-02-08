@@ -11,5 +11,9 @@
   <ItemGroup>
     <ProjectReference Include="..\SistemaGestao.Models\SistemaGestao.Models.csproj" />
   </ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="Dapper" Version="2.1.66" />
+		<PackageReference Include="System.Data.SQLite" Version="1.0.119" />
+	</ItemGroup>
 
 </Project>

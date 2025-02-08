@@ -28,12 +28,76 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            txtNome = new TextBox();
+            txtPreco = new TextBox();
+            txtQuantidade = new TextBox();
+            btnAdicionar = new Button();
+            dgvProdutos = new DataGridView();
+            ((System.ComponentModel.ISupportInitialize)dgvProdutos).BeginInit();
+            SuspendLayout();
+            // 
+            // txtNome
+            // 
+            txtNome.Location = new Point(223, 197);
+            txtNome.Name = "txtNome";
+            txtNome.Size = new Size(100, 23);
+            txtNome.TabIndex = 0;
+            // 
+            // txtPreco
+            // 
+            txtPreco.Location = new Point(329, 197);
+            txtPreco.Name = "txtPreco";
+            txtPreco.Size = new Size(100, 23);
+            txtPreco.TabIndex = 1;
+            // 
+            // txtQuantidade
+            // 
+            txtQuantidade.Location = new Point(435, 197);
+            txtQuantidade.Name = "txtQuantidade";
+            txtQuantidade.Size = new Size(100, 23);
+            txtQuantidade.TabIndex = 2;
+            // 
+            // btnAdicionar
+            // 
+            btnAdicionar.Location = new Point(341, 226);
+            btnAdicionar.Name = "btnAdicionar";
+            btnAdicionar.Size = new Size(75, 23);
+            btnAdicionar.TabIndex = 3;
+            btnAdicionar.Text = "Adicionar";
+            btnAdicionar.UseVisualStyleBackColor = true;
+            btnAdicionar.Click += btnAdicionar_Click;
+            // 
+            // dgvProdutos
+            // 
+            dgvProdutos.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dgvProdutos.Location = new Point(262, 41);
+            dgvProdutos.Name = "dgvProdutos";
+            dgvProdutos.Size = new Size(240, 150);
+            dgvProdutos.TabIndex = 4;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(dgvProdutos);
+            Controls.Add(btnAdicionar);
+            Controls.Add(txtQuantidade);
+            Controls.Add(txtPreco);
+            Controls.Add(txtNome);
+            Name = "Form1";
+            Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)dgvProdutos).EndInit();
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private TextBox txtNome;
+        private TextBox txtPreco;
+        private TextBox txtQuantidade;
+        private Button btnAdicionar;
+        private DataGridView dgvProdutos;
     }
 }

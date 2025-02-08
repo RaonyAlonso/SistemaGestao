@@ -3,15 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaGestao", "SistemaGestao\SistemaGestao.csproj", "{D5E84EA9-75A2-479D-87D7-6F4A7B169CCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaGestao.UI", "SistemaGestao.UI\SistemaGestao.UI.csproj", "{A92C9AB2-F37A-453F-9C37-832FA842B360}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaGestao.UI", "SistemaGestao.UI\SistemaGestao.UI.csproj", "{A92C9AB2-F37A-453F-9C37-832FA842B360}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaGestao.Core", "SistemaGestao.Core\SistemaGestao.Core.csproj", "{5EE2EEDF-007E-410E-92C1-B72B8BA968BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaGestao.Core", "SistemaGestao.Core\SistemaGestao.Core.csproj", "{5EE2EEDF-007E-410E-92C1-B72B8BA968BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaGestao.Data", "SistemaGestao.Data\SistemaGestao.Data.csproj", "{8B0379D7-81E1-4B6E-8801-53923C60F862}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaGestao.Data", "SistemaGestao.Data\SistemaGestao.Data.csproj", "{8B0379D7-81E1-4B6E-8801-53923C60F862}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaGestao.Models", "SistemaGestao.Models\SistemaGestao.Models.csproj", "{6BC57BC9-CE53-41B9-B348-FF62D8412906}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaGestao.Models", "SistemaGestao.Models\SistemaGestao.Models.csproj", "{6BC57BC9-CE53-41B9-B348-FF62D8412906}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D5E84EA9-75A2-479D-87D7-6F4A7B169CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D5E84EA9-75A2-479D-87D7-6F4A7B169CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D5E84EA9-75A2-479D-87D7-6F4A7B169CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D5E84EA9-75A2-479D-87D7-6F4A7B169CCD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A92C9AB2-F37A-453F-9C37-832FA842B360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A92C9AB2-F37A-453F-9C37-832FA842B360}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A92C9AB2-F37A-453F-9C37-832FA842B360}.Release|Any CPU.ActiveCfg = Release|Any CPU
